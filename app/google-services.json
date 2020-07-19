@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969113428553",
+    "firebase_url": "https://two-urban-sisters.firebaseio.com",
+    "project_id": "two-urban-sisters",
+    "storage_bucket": "two-urban-sisters.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969113428553:android:9b841e0671b35e235a5598",
+        "android_client_info": {
+          "package_name": "com.twourbansisters.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969113428553-2aknnajih8mbpfgciq9psten06n5nfm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJIxla7zMmeOFqLG3m7RMCkHv3elcKrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969113428553-2aknnajih8mbpfgciq9psten06n5nfm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

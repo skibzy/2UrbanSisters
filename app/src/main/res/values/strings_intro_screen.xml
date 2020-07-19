@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_title_one">Welcome to the 2 Urban Sister\'s App</string>
+    <string name="intro_screen_subtitle_one">High Quality Food Delivery at your finger tips.</string>
+    <string name="intro_screen_title_two">Allow Access</string>
+    <string name="intro_screen_subtitle_two">Make an Order with us and we\'ll deliver to you.</string>
+    <string name="intro_screen_subtitle_three">Click on Get Started below to experience the awesomeness!</string>
+</resources>
